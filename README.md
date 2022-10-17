@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinkDOUDOU
 - 👀 I’m interested in StereoMatching
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 闪电五连鞭
 - 💞️ I’m looking to collaborate on ...
 - 📫 email:yuang@zju.edu.cn
 
